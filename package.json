@@ -1,8 +1,6 @@
 {
-  "name": "aws-cicd-express",
+  "name": "aws-beanstalk-lab",
   "version": "1.0.0",
-  "description": "Simple Express App",
-  "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
